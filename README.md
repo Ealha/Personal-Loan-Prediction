@@ -1,2 +1,3 @@
-# Personal-Loan-Prediction
-Predicts whether Universal Bank customers will accept a personal loan using k-NN and discriminant analysis. Key features like income, credit cards, and education are analyzed. Models are trained and validated in Python to identify high-probability customers for targeted campaigns.
+Personal Loan Acceptance Prediction – Universal Bank
+
+Predict whether a customer will accept a personal loan using the Universal Bank dataset. This project applies k-Nearest Neighbors (k-NN) and discriminant analysis to identify high-probability customers, helping the bank design more effective targeted campaigns. Key features like income, credit card ownership, and education were analyzed, and models were evaluated on both training and validation sets to balance accuracy and generalization. Implemented in Python using pandas and scikit-learn, this project demonstrates supervised machine learning, data preprocessing, and model interpretation for actionable business insights.
